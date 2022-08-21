@@ -423,10 +423,22 @@
                 "filename": "codegen_v0_25_0.qmod"
             },
             {
+                "id": "questui",
+                "version": "0.16.4",
+                "downloadLink": "https://github.com/darknight1050/QuestUI/releases/download/v0.16.4/QuestUI.qmod",
+                "filename": "questui_v0_16_4.qmod"
+            },
+            {
                 "id": "songloader",
                 "version": "0.10.3",
                 "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.10.3/SongLoader.qmod",
                 "filename": "songloader_v0_10_3.qmod"
+            },
+            {
+                "id": "songdownloader",
+                "version": "0.4.10",
+                "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.4.10/SongDownloader.qmod",
+                "filename": "songdownloader_v0_4_10.qmod"
             },
             {
                 "id": "playlistcore",
@@ -441,28 +453,16 @@
                 "filename": "playlistmanager_v1_1_0.qmod"
             },
             {
-                "id": "questui",
-                "version": "0.16.4",
-                "downloadLink": "https://github.com/darknight1050/QuestUI/releases/download/v0.16.4/QuestUI.qmod",
-                "filename": "questui_v0_16_4.qmod"
-            },
-            {
-                "id": "songdownloader",
-                "version": "0.4.10",
-                "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.4.10/SongDownloader.qmod",
-                "filename": "songdownloader_v0_4_10.qmod"
+                "id": "datakeeper",
+                "version": "0.1.1",
+                "downloadLink": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.1/PlayerDataKeeper_1.24.qmod",
+                "filename": "PlayerDataKeeper_v0_1_1.qmod"
             },
             {
                 "id": "pinkcore",
                 "version": "1.7.0",
                 "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/v1.7.0/PinkCore.qmod",
                 "filename": "PinkCore_v1_7_0.qmod"
-            },
-            {
-                "id": "datakeeper",
-                "version": "0.1.1",
-                "downloadLink": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.1/PlayerDataKeeper_1.24.qmod",
-                "filename": "PlayerDataKeeper_v0_1_1.qmod"
             },
             {
                 "id": "BeatTogether",
