@@ -485,7 +485,7 @@
         ]
     },
     "1.25.1": {
-        "lastUpdated": "2022-10-18T21:19:50Z",
+        "lastUpdated": "2022-10-19T22:57:50Z",
         "mods": [
             {
                 "id": "custom-types",
@@ -501,9 +501,9 @@
             },
             {
                 "id": "questui",
-                "version": "0.17.3",
-                "downloadLink": "https://github.com/darknight1050/QuestUI/releases/download/v0.17.3/QuestUI.qmod",
-                "filename": "QuestUI_v0_17_3.qmod"
+                "version": "0.17.4",
+                "downloadLink": "https://github.com/darknight1050/QuestUI/releases/download/v0.17.4/QuestUI.qmod",
+                "filename": "QuestUI_v0_17_4.qmod"
             },
             {
                 "id": "songloader",
