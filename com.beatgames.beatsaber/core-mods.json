@@ -485,7 +485,7 @@
         ]
     },
     "1.25.1": {
-        "lastUpdated": "2022-10-19T22:57:50Z",
+        "lastUpdated": "2022-10-21T17:29:15Z",
         "mods": [
             {
                 "id": "custom-types",
@@ -546,6 +546,18 @@
                 "version": "0.1.7",
                 "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/v0.1.7/ModList.qmod",
                 "filename": "ModList_v0_1_7.qmod"
+            },
+            {
+                "id": "BeatTogether",
+                "version": "1.6.0",
+                "downloadLink": "https://github.com/BeatTogether/BeatTogether.Quest/releases/download/v1.6.0/BeatTogether_v1.6.0.qmod",
+                "filename": "BeatTogether_v1_6_0.qmod"
+            },
+            {
+                "id": "MultiplayerCore",
+                "version": "1.3.0",
+                "downloadLink": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.3.0/MultiplayerCore1.3.0.qmod",
+                "filename": "MultiplayerCore_v1_3_0.qmod"
             }
         ]
     }
