@@ -729,6 +729,18 @@
                 "version": "0.1.10",
                 "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/v0.1.10/ModList.qmod",
                 "filename": "ModList_v0_1_10.qmod"
+            },
+            {
+                "id": "playlistcore",
+                "version": "1.1.4",
+                "downloadLink": "https://github.com/Metalit/PlaylistCore/releases/download/1.1.4/PlaylistCore.qmod",
+                "filename": "PlayListCore_v1_1_4.qmod"
+            },
+            {
+                "id": "playlistmanager",
+                "version": "1.2.3",
+                "downloadLink": "https://github.com/Metalit/PlaylistManager/releases/download/v1.2.3/PlaylistCore.qmod",
+                "filename": "PlaylistManager_v1_2_3.qmod"
             }
         ]
     }
