@@ -725,7 +725,7 @@
                 "filename": "SongDownloader_v0_5_5.qmod"
             },
             {
-                "id": "modlist",
+                "id": "mod-list",
                 "version": "0.1.10",
                 "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/v0.1.10/ModList.qmod",
                 "filename": "ModList_v0_1_10.qmod"
