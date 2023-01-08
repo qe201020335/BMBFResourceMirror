@@ -453,12 +453,6 @@
                 "filename": "playlistmanager_v1_1_0.qmod"
             },
             {
-                "id": "datakeeper",
-                "version": "0.1.1",
-                "downloadLink": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.1/PlayerDataKeeper_1.24.qmod",
-                "filename": "PlayerDataKeeper_v0_1_1.qmod"
-            },
-            {
                 "id": "pinkcore",
                 "version": "1.7.0",
                 "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/v1.7.0/PinkCore.qmod",
@@ -528,12 +522,6 @@
                 "version": "1.2.0",
                 "downloadLink": "https://github.com/Metalit/PlaylistManager/releases/download/v1.2.0/PlaylistManager.qmod",
                 "filename": "PlaylistManager_v1_2_0.qmod"
-            },
-            {
-                "id": "datakeeper",
-                "version": "0.1.2",
-                "downloadLink": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.2/PlayerDataKeeper.qmod",
-                "filename": "PlayerDataKeeper_v0_1_2.qmod"
             },
             {
                 "id": "pinkcore",
