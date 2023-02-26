@@ -720,9 +720,9 @@
             },
             {
                 "id": "playlistcore",
-                "version": "1.1.4",
-                "downloadLink": "https://github.com/Metalit/PlaylistCore/releases/download/1.1.4/PlaylistCore.qmod",
-                "filename": "PlayListCore_v1_1_4.qmod"
+                "version": "1.1.5",
+                "downloadLink": "https://github.com/Metalit/PlaylistCore/releases/download/1.1.5/PlaylistCore.qmod",
+                "filename": "PlayListCore_v1_1_5.qmod"
             },
             {
                 "id": "playlistmanager",
