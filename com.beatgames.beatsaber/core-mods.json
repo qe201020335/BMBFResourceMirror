@@ -796,5 +796,34 @@
                 "filename": "PlaylistManager_1_2_4.qmod"
             }
         ]
+    },
+    "1.35.0_8016709773": {
+        "lastUpdated": "2024-03-27T14:19:00Z",
+        "mods": [
+            {
+                "id": "custom-types",
+                "version": "0.17.6",
+                "downloadLink": "https://github.com/QuestPackageManager/Il2CppQuestTypePatching/releases/download/v0.17.6/CustomTypes.qmod",
+                "filename": "CustomTypes_v0_17_6.qmod"
+            },
+            {
+                "id": "lapiz",
+                "version": "0.2.6",
+                "downloadLink": "https://github.com/raineio/Lapiz/releases/download/v0.2.6/Lapiz.qmod",
+                "filename": "Lapiz_v0_2_6.qmod"
+            },
+            {
+                "id": "bsml",
+                "version": "0.4.18",
+                "downloadLink": "https://github.com/RedBrumbler/Quest-BSML/releases/download/v0.4.18/BSML.qmod",
+                "filename": "BSML_v0_4_18.qmod"
+            },
+            {
+                "id": "songcore",
+                "version": "1.1.1",
+                "downloadLink": "https://github.com/raineio/Quest-SongCore/releases/download/v1.1.1/SongCore.qmod",
+                "filename": "SongCore_v1_1_1.qmod"
+            }
+        ]
     }
 }
