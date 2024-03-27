@@ -798,7 +798,7 @@
         ]
     },
     "1.35.0_8016709773": {
-        "lastUpdated": "2024-03-27T14:19:00Z",
+        "lastUpdated": "2024-03-27T16:40:00Z",
         "mods": [
             {
                 "id": "custom-types",
@@ -829,6 +829,12 @@
                 "version": "1.3.0",
                 "downloadLink": "https://github.com/Metalit/PlaylistCore/releases/download/v1.3.0/PlaylistCore.qmod",
                 "filename": "PlaylistCore_v1_3_0.qmod"
+            },
+            {
+                "id": "paperlog_scotland2",
+                "version": "0.1.0",
+                "downloadLink": "https://github.com/Fernthedev/paperlog/releases/download/v3.6.3/paperlog_sl2.qmod",
+                "filename": "PaperLogSL2_v0_1_0.qmod"
             }
         ]
     }
