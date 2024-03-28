@@ -798,7 +798,7 @@
         ]
     },
     "1.35.0_8016709773": {
-        "lastUpdated": "2024-03-27T16:40:00Z",
+        "lastUpdated": "2024-03-28T16:25:00Z",
         "mods": [
             {
                 "id": "custom-types",
@@ -814,9 +814,9 @@
             },
             {
                 "id": "bsml",
-                "version": "0.4.19",
-                "downloadLink": "https://github.com/RedBrumbler/Quest-BSML/releases/download/v0.4.19/BSML.qmod",
-                "filename": "BSML_v0_4_19.qmod"
+                "version": "0.4.20",
+                "downloadLink": "https://github.com/RedBrumbler/Quest-BSML/releases/download/v0.4.20/BSML.qmod",
+                "filename": "BSML_v0_4_20.qmod"
             },
             {
                 "id": "songcore",
