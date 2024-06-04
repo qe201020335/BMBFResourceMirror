@@ -14,7 +14,7 @@ jobs:
       with:
         persist-credentials: false
     - name: update time
-      run: date +"%s,%Y%m%d%H%M%S" > date_refreshed.txt && git add date_refreshed.txt && git commit -m "update time"
+      run: date +"%s,%Y%m%d%H%M%S" > date_refreshed.txt && git config --local user.name "gh_runner" && git add date_refreshed.txt && git commit -m "update time"
     - name: repo-sync
       uses: repo-sync/github-sync@v2
       with:
