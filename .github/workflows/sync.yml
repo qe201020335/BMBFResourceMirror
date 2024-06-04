@@ -13,6 +13,8 @@ jobs:
     - uses: actions/checkout@v3
       with:
         persist-credentials: false
+    - name: update time
+      run: date +"%s,%Y%m%d%H%M%S" > date_refreshed.txt && git add date_refreshed.txt && git commit -m "update time"
     - name: repo-sync
       uses: repo-sync/github-sync@v2
       with:
