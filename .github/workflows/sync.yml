@@ -14,7 +14,13 @@ jobs:
       with:
         persist-credentials: false
     - name: update time
-      run: date +"%s,%Y%m%d%H%M%S" > date_refreshed.txt && git config --local user.name "gh_runner" && git add date_refreshed.txt && git commit -m "update time"
+      run: git switch -c __sync_time && date +"%s,%Y%m%d%H%M%S" > date_refreshed.txt && git config --local user.name "gh_runner" && git add date_refreshed.txt && git commit -m "update time"
+    - name: push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: __sync_time
+        force: true
     - name: repo-sync
       uses: repo-sync/github-sync@v2
       with:
